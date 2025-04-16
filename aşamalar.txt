@@ -1,4 +1,4 @@
-# STEP 1: Connect to your EC2 Ubuntu instance
+# STEP 1: Connect to your EC2 Ubuntu instancee
 ssh -i /path/to/your-key.pem ubuntu@<your-ec2-public-ip>
 
 # STEP 2: Update and install NGINX
