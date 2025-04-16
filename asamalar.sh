@@ -8,6 +8,8 @@ sudo apt install -y nginx
 # STEP 3: Start and enable NGINX
 sudo systemctl start nginx
 sudo systemctl enable nginx
+sudo chown -R $USER /var/www
+
 
 # STEP 4: Upload your HTML file from your local machine
 # Run this on your local terminal (not inside EC2)
