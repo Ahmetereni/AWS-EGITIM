@@ -29,3 +29,5 @@ sudo mv /home/ubuntu/*.js /home/ubuntu/*.css /var/www/html/
 # Open: http://<your-ec2-public-ip>
 
 # NGINX will serve your updated index.html page!
+
+##Setup CERTBOT
